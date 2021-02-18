@@ -1,22 +1,21 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>   
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rpaiter)](https://github.com/rpaiter)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romildopaiter)](https://www.linkedin.com/in/romildopaiter/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=/)](https://www.linkedin.com/in/wesleyosantos91/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romildopaiter@gmail.com)](mailto:romildopaiter@gmail.com/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565981250768&text=Olá!)](https://api.whatsapp.com/send?phone=5565981250768&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rjpaiter)](https://t.me/rjpaiter)
+
+<br/>
+
+<p>
  <img src="http://views.whatilearened.today/views/github/rpaiter/views.svg"/> 
  <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
  <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
  <a href="https://github.com/rpaiter/"><img src="https://img.shields.io/github/followers/rpaiter?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
  <a href="https://github.com/rpaiter?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-</p>
-
-<p>
-<a href="https://twitter.com/romildopaiter">
-  <img align="left" alt="Romildo Paiter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/romildopaiter/">
-  <img align="left" alt="Romildo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rpaiter.rpaiter)
@@ -32,6 +31,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 
+**Education:**  
+- 🎓 Graduado em Sistemas de Informação na UFMT (Universidade Federal de Mato Grosso) - 2º/2014
+- 🎓 Pós graduado em Arquitetura de Software Distribuído na PUC/MG (Pontifícia Universidade Católica de Minas Gerais) - 2º/2016
+- 🎓 Pós graduado em Internet das Coisas (IoT) na Uniciv (Centro de Inovação VincIT) - 1º/2021
+
+
+**Certifications:** 
+
+- [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/18629a0e-6e10-4441-9607-24fce86c2390/linked_in_profile)
+- [Scrum Foundation Professional Certificate](https://www.youracclaim.com/badges/773bbd66-cb42-4f4e-85b1-70723cf50f7c?source=linked_in_profile)
 
 **Languages and Tools:**  
 
@@ -53,7 +62,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rpaiter&show_icons=true&theme=gotham" alt="rpaiter" />
+ <center>	
+  <table>	
+    <tr>	
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaiter&hide=html&layout=compact" /></td>	
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rpaiter&show_icons=true&theme=gotham" alt="rpaiter" /></td>	
+    </tr>   	
+  </table>	
+</center>	
 
 
 
